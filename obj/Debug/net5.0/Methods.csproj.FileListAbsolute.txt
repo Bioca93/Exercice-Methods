@@ -1,0 +1,16 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\refint\Methods.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Methods\obj\Debug\net5.0\ref\Methods.dll
