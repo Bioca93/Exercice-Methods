@@ -1,2 +1,2 @@
-# Exercice-Methods
-Exercices with Methods
+# Exercise-Methods
+Exercises with Methods
